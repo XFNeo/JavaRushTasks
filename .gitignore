@@ -1,0 +1,12 @@
+﻿#############
+## Idea
+#############
+target/
+out/
+.idea/
+*.class
+*.jar
+JavaRushTasks.iml
+JavaRushPlugin.properties
+out.log
+out.log.*
